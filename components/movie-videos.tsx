@@ -1,4 +1,4 @@
-const API_URL = "https://nomad-movies.nomadcoders.workers.dev/movies";
+import { API_URL } from "../app/(home)/page";
 
 async function getVideos(id: string) {
   console.log(`Fetching videos : ${Date.now()}`);
