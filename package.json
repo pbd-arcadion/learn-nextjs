@@ -16,7 +16,8 @@
   "homepage":"https://pbd-arcadion.github.io/learn-nextjs/",
   "scripts": {
     "dev": "next dev",
-    "build": "next build"
+    "build": "next build",
+    "start":"next start"
   },
   "keywords": [],
   "author": "",
